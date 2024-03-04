@@ -1,13 +1,10 @@
 hello 
 I'm in github
-
-
 now I'm in folder 
-
 in git hub
-
 again in folder
-
 again in git hub
+change in master branch
 
-change in master branch 
+
+changr in local by collaborator 
